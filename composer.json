@@ -1,0 +1,18 @@
+{
+  "name": "neelbhanushali/laravel-locale",
+  "description": "Set laravel app's locale",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Neel Bhanushali",
+      "email": "neal.bhanushali@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "NeelBhanushali\\LaravelLocale\\": "src/"
+    }
+  }
+}
