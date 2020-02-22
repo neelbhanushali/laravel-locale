@@ -12,7 +12,7 @@
   "require": {},
   "autoload": {
     "files": [
-      "src/helpers.php",
+      "src/helpers.php"
     ],
     "psr-4": {
       "NeelBhanushali\\LaravelLocale\\": "src/"
